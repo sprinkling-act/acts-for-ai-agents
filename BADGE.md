@@ -18,6 +18,25 @@ For an actual assessment of your agent's EU AI Act position, run the free diagno
 
 ---
 
+## Two badges, two levels
+
+Sprinkling Act offers two badges. They serve different purposes — don't confuse them.
+
+| | **ACTS-aware** (this badge) | **SA-XXXX** (verified) |
+|---|---|---|
+| **When** | While building your agent | After a Sprinkling Act assessment |
+| **Issued by** | Yourself (self-declaration) | Sprinkling Act |
+| **Cost** | Free, instant | Free diagnostic, then €690 Full Report |
+| **Code** | None | Unique `SA-XXXX` |
+| **Verifiable** | No (good-faith declaration) | Yes — public lookup at https://sprinklingact.com/index |
+| **Meaning** | "I considered the 4 axes" | "I was assessed and here is my position" |
+
+The **ACTS-aware** badge is the entry point. The **SA-XXXX** badge is the verification.
+
+If you want the verified badge with a unique code that any third party can look up, run the free diagnostic at https://sprinklingact.com/check, then apply for the Full Report. Both badges can coexist — the ACTS-aware shows your engineering practice, the SA-XXXX shows your regulatory position.
+
+---
+
 ## Markdown to copy-paste
 
 ```markdown
