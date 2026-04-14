@@ -56,6 +56,16 @@ ls
 
 ---
 
+## Compatible with
+
+Framework-agnostic by design. The system prompts paste into any LLM environment that accepts a system message:
+
+`Claude Code` · `Cursor` · `Anthropic API` · `OpenAI API` · `OpenAI Custom GPTs` · `Continue.dev` · `Aider` · `Self-hosted LLMs (Llama, Mistral, etc.)`
+
+This is a compatibility statement, not an endorsement claim. None of the listed platforms are affiliated with, or have endorsed, Sprinkling Act.
+
+---
+
 ## The prompts
 
 ### [`A-accountability.md`](system-prompts/A-accountability.md) — When the agent acts, who answers?
