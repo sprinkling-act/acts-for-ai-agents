@@ -86,6 +86,12 @@ Forces a one-time literacy check before production deployment, requires acknowle
 
 ---
 
+## A complete example
+
+See [`examples/CLAUDE.md`](examples/CLAUDE.md) for a full `CLAUDE.md` file showing how to integrate all 4 ACTS into a real-world AI agent (a hypothetical email triage agent). Drop it into your project root, adapt the project-specific sections, and your agent operates under the framework from its first run.
+
+---
+
 ## What this repo is NOT
 
 - **Not legal advice.** These prompts are engineering scaffolding, not legal opinions.
