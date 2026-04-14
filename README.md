@@ -91,7 +91,7 @@ Forces a one-time literacy check before production deployment, requires acknowle
 If you want to know your agent's actual EU AI Act regulatory position — not a self-declaration, but a structured assessment mapped article by article — Sprinkling Act offers two levels:
 
 - **[Free diagnostic](https://sprinklingact.com/check)** — 9 questions, 60 seconds, instant indicative position. No account. No email. No funnel.
-- **[Full Report](https://sprinklingact.com/reports)** — €690, human-reviewed, 15-22 pages, article-by-article analysis with stability indicators and remediation paths.
+- **[Full Report](https://sprinklingact.com/rapport-preview)** — €690, human-reviewed, 15-22 pages, article-by-article analysis with stability indicators and remediation paths.
 
 Both are described in detail at **[sprinklingact.com/ai-agents](https://sprinklingact.com/ai-agents)**.
 
